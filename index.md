@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Test github pages
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
