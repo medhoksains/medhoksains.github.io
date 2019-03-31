@@ -3,6 +3,14 @@ layout: default
 title: Test github pages
 ---
 
+---
+title: Relativitas Umum dalam Astronomi
+layout: post
+---
+
+{% include youtubePlayer.html id=page.YJSRWUSr2Zg %}
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
